@@ -1,5 +1,4 @@
-
-- Desenvolvedor Front End
+Desenvolvedor Front End
 
 <br>
 <div align="center">
@@ -8,8 +7,8 @@
 <br>
 
 <div align="center">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=ValleirMalta&show_icons=true&theme=algolia"></img>
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValleirMalta&layout=compact&theme=algolia"></img>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=ValleirMalta&show_icons=true&theme=algolia"></img>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ValleirMalta&layout=compact&theme=algolia"></img>
 </div>
 <br>
 
