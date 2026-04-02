@@ -1,4 +1,8 @@
 <div align="center">
+  Oiee,  Sou Valleir
+</div>
+
+<div align="center">
   <img src="https://skillicons.dev/icons?i=react,js,html,scss"></img>
 </div>
 <br>
